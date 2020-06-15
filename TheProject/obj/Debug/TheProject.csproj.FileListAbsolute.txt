@@ -1,0 +1,13 @@
+C:\Users\ArmyStriker\source\repos\TheProject\TheProject\bin\Debug\TheProject.exe.config
+C:\Users\ArmyStriker\source\repos\TheProject\TheProject\bin\Debug\TheProject.exe
+C:\Users\ArmyStriker\source\repos\TheProject\TheProject\bin\Debug\TheProject.pdb
+C:\Users\ArmyStriker\source\repos\TheProject\TheProject\obj\Debug\TheProject.csprojAssemblyReference.cache
+C:\Users\ArmyStriker\source\repos\TheProject\TheProject\obj\Debug\TheProject.Form1.resources
+C:\Users\ArmyStriker\source\repos\TheProject\TheProject\obj\Debug\TheProject.Properties.Resources.resources
+C:\Users\ArmyStriker\source\repos\TheProject\TheProject\obj\Debug\TheProject.csproj.GenerateResource.cache
+C:\Users\ArmyStriker\source\repos\TheProject\TheProject\obj\Debug\TheProject.csproj.CoreCompileInputs.cache
+C:\Users\ArmyStriker\source\repos\TheProject\TheProject\obj\Debug\TheProject.exe
+C:\Users\ArmyStriker\source\repos\TheProject\TheProject\obj\Debug\TheProject.pdb
+C:\Users\ArmyStriker\source\repos\TheProject\TheProject\obj\Debug\TheProject.Form2.resources
+C:\Users\ArmyStriker\source\repos\TheProject\TheProject\obj\Debug\TheProject.Form4.resources
+C:\Users\ArmyStriker\source\repos\TheProject\TheProject\obj\Debug\TheProject.Form3.resources
